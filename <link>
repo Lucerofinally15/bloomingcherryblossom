@@ -1,0 +1,7 @@
+#stylish {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    color: pink;
+    background: green;
